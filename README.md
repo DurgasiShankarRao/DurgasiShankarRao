@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DurgasiShankarRao
 - 👀 I’m interested in Software Development
-- 🌱 I’m currently learning Web Development
+- 🌱 I’m currently learning Full Stack Web Development
 - 💞️ I’m looking to collaborate on open-source projects and web applications
 - 📫 How to reach me : via my email... shankarrao4038@gmail.com
 - 😄 Pronouns: he/him
