@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @DurgasiShankarRao
+- 👋 Hi, I’m @Durgasi Sankar Rao
 - 👀 I’m interested in Software Development
 - 🌱 I’m currently learning Full Stack Web Development
 - 💞️ I’m looking to collaborate on open-source projects and web applications
